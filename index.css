@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+}
+h1{
+    text-align: center;
+}
+button{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: lightpink;
+    font-size: larger;
+    border-radius: 25%;
+    border-color: black;
+}
